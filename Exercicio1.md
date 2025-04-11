@@ -4,7 +4,7 @@ O website deve conter uma página:
 1. Uma página principal (index.html) contendo as informações gerais do currículo. 
 A página principal do website (index.html) deve se apresentar como na figura modelo a seguir.
 
-## Figura 1 – Exercício 1 - Página Principal (index.html)
+### Figura 1 – Exercício 1 - Página Principal (index.html)
 ----------
 |        |
 |  FOTO  |
