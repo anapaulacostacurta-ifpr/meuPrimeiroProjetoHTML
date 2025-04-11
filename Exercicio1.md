@@ -57,17 +57,3 @@ Contato
    
 _______________________________________________________________________________________________________________________
 
-## Requisitos e restrições
-1. Apenas os elementos da HTML listados a seguir são permitidos:
-a. <html>, <body>, <head>, <title>, <meta>
-b. <h1>, <h2>, <p>, <b>, <strong> 
-c. <img>, <a>, <hr>, <br>, <img>
-2. O website deve ser organizado a partir de uma pasta raiz de nome trab1, a qual deve conter o arquivo index.html e uma subpasta de nome images contendo os arquivos de imagens necessários;
-3. Nas duas páginas, a aba do navegador deve apresentar o texto: “Currículo de Fulano de Tal”;
-4. A foto do autor do currículo na página principal deverá aparecer antes do nome, conforme modelo apresentado acima, no tamanho 120 x 120 pixels. Utilize a foto de um avatar. Não
-utilize foto própria;
-5. Utilize o elemento <h1> para inserção do nome do autor e elementos <h2> para os títulos relativos às seções do currículo (Perfil, Principais Competências, Formação Acadêmica,
-etc.). As partes devem ser separadas por elementos <hr>.
-6. A seção Perfil deve ter pelo menos dois parágrafos;
-7. A seção Formação Acadêmica deve ter um conteúdo similar ao apresentado na figura, contendo os links para sites das universidades;
-8. A seção Experiência Profissional deve ser organizada como apresentada na figura;
