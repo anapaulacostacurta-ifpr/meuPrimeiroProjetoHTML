@@ -35,6 +35,7 @@ Principais Competências
     
 _______________________________________________________________________________________________________________________
 Formação Acadêmica
+
 Técnico em Informática para Internet pelo Instituto Federal do Paraná (2020) e Tecnologo em Análise e Desenvolvimento 
 de Sistemas pela Universidade Tecnologica Federal do Paraná (2024).
 _______________________________________________________________________________________________________________________
