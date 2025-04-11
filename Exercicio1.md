@@ -23,25 +23,25 @@ Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ip
 _______________________________________________________________________________________________________________________
 Principais Competências
 
-Programador HTML
-Desenvolvimento FrontEnd
-Bla Bla
-Bla Bla
-Bla Bla
+- Programador HTML
+- Desenvolvimento FrontEnd
+- Bla Bla
+- Bla Bla
+- Bla Bla
 _______________________________________________________________________________________________________________________
 Formação Acadêmica
 Técnico em Informática para Internet pelo Instituto Federal do Paraná (2020) e Tecnologo em Análise e Desenvolvimento 
 de Sistemas pela Universidade Tecnologica Federal do Paraná (2024).
 _______________________________________________________________________________________________________________________
-Experiência Profissional
-Empresa X (2021-2022)
-Emoresa Y (2022-2024)
-Empresa Z (2024-Atual)
+- Experiência Profissional
+- Empresa X (2021-2022)
+- Emoresa Y (2022-2024)
+- Empresa Z (2024-Atual)
 _______________________________________________________________________________________________________________________
 Contato
-|icone|  Rua Joao da Silva, Santo Angelo, Telêmaco Borba, Paraná
-|icone|  (42) 99999-99999
-|icone|  emailfulano@gmail.com
+- |icone|  Rua Joao da Silva, Santo Angelo, Telêmaco Borba, Paraná
+- |icone|  (42) 99999-99999
+- |icone|  emailfulano@gmail.com
 
 ## Requisitos e restrições
 1. Apenas os elementos da HTML listados a seguir são permitidos:
