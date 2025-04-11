@@ -13,6 +13,7 @@ A página principal do website (index.html) deve se apresentar como na figura mo
 NOME FULANO
 _______________________________________________________________________________________________________________________
 Perfil
+
 Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
 Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
 
