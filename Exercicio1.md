@@ -45,6 +45,7 @@ Experiência Profissional
    Emoresa Y (2022-2024)
 
    Empresa Z (2024-Atual)
+   
 _______________________________________________________________________________________________________________________
 Contato
 
@@ -53,6 +54,8 @@ Contato
    |icone|  (42) 99999-99999
 
    |icone|  emailfulano@gmail.com
+   
+_______________________________________________________________________________________________________________________
 
 ## Requisitos e restrições
 1. Apenas os elementos da HTML listados a seguir são permitidos:
