@@ -23,15 +23,15 @@ Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ip
 _______________________________________________________________________________________________________________________
 Principais Competências
 
-    Programador HTML
+    Programador HTML;
     
-    Desenvolvimento FrontEnd
+    Desenvolvimento FrontEnd;
     
-    Bla Bla
+    Bla Bla;
     
-    Bla Bla
+    Bla Bla;
     
-    Bla Bla
+    Bla Bla;
     
 _______________________________________________________________________________________________________________________
 Formação Acadêmica
