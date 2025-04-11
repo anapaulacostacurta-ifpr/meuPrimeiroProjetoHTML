@@ -22,11 +22,17 @@ Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ip
 
 _______________________________________________________________________________________________________________________
 Principais Competências
+
     Programador HTML
+    
     Desenvolvimento FrontEnd
+    
     Bla Bla
+    
     Bla Bla
+    
     Bla Bla
+    
 _______________________________________________________________________________________________________________________
 Formação Acadêmica
 Técnico em Informática para Internet pelo Instituto Federal do Paraná (2020) e Tecnologo em Análise e Desenvolvimento 
