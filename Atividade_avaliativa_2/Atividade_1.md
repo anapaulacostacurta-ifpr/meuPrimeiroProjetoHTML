@@ -3,7 +3,7 @@
 ### b)Abra um codespace novo;
 ### c)Cria uma pasta chamada Atividade_1;
 ### d)Crie um arquivo chamado Atividade1.html (deve estar dentro da pasta Atividade_1);
-### c)Cópie e cole o conteúdo abaixo:
+### c)Cópie e cole o conteúdo abaixo no arquivo Atividade1.html:
 ```
 <h1>Bem-vindo ao meu primeiro site!</h1>
 </body>
