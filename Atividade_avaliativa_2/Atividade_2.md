@@ -1,6 +1,6 @@
 ## 2) Montando uma Página HTML com Imagem e Link
 ### a)Cria uma pasta chamada Atividade_2;
-### d)Crie um arquivo chamado Atividade1.html;
+### d)Crie um arquivo chamado Atividade2.html;
 ### c)Cópie e cole o conteúdo abaixo:
 
 ```
