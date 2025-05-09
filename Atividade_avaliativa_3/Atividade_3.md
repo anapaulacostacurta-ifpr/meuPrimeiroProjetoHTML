@@ -3,7 +3,7 @@
 ### b) Titulo da página com h1: Bem-vindo a Atividade Avaliativa 2 de [Nome do Aluno];
 ### c) Inclua um Paragrafo com o texto: "Escolha uma atividade para acessar:"
 ### d) O Paragrafo deve conter dois link em linhas separadas que direcionar para os arquivos abaixo:
-#### Atividade_1/Atividade1.html
-#### Atividade_2/Atividade2.html
+#### Destino: ./Atividade_1/Atividade1.html -> Link Atividade 1
+#### Destino:./Atividade_2/Atividade2.html -> Link Atividade 2
 ### e) Inclua a imagem do IFPR no rodapé da página e seu nome como desenvolvedor da página.
 
