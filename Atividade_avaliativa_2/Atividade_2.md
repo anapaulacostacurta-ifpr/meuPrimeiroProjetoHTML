@@ -15,4 +15,4 @@
 </html>
 <body>
 ```
-### d)
+### d) Sua missão é organizar os trechos na ordem correta e corrigir os erros caso existam neste html.
